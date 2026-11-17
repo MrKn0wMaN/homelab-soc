@@ -11,7 +11,7 @@ Everything here is sanitized: addresses, names and keys are placeholders.
 | `docs/sessions/` | One write-up per build session |
 | `configs/` | Wazuh rules and decoders, n8n workflow JSON, Docker Compose files |
 | `scripts/` | Bridge scripts and Ansible playbooks |
-| `diagrams/` | Architecture and network diagrams |
+| `diagrams/` | Architecture and network diagrams, starting with the [network overview](diagrams/network-overview.md) |
 | `blog/` | Source for the GitHub Pages blog |
 
 ## Status
