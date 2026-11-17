@@ -1,0 +1,8 @@
+.env
+*.env
+secrets.yaml
+*.pem
+*.key
+*.log
+.DS_Store
+.vscode/
